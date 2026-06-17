@@ -1,0 +1,30 @@
+﻿  Intl.cpp
+  Student_info.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(33,5): error C2059: 구문 오류: '...'
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(49,2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(49,7): error C2065: 'students': 선언되지 않은 식별자입니다.
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(49,25): error C2065: 'students': 선언되지 않은 식별자입니다.
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(49,6): error C2440: '초기화 중': 'bool (__cdecl *)(const Core *,const Core *)'에서 'int'(으)로 변환할 수 없습니다.
+      C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(49,6):
+      이 변환이 가능한 컨텍스트가 없습니다.
+  
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(52,2): error C2059: 구문 오류: 'for'
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(52,37): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,5): error C2143: 구문 오류: ';'이(가) '!=' 앞에 없습니다.
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,3): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,5): error C2059: 구문 오류: '!='
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,26): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,25): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,25): error C2086: 'int i': 재정의
+      C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,3):
+      'i' 선언을 참조하십시오.
+  
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,26): error C2059: 구문 오류: '++'
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,28): error C2059: 구문 오류: ')'
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,30): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(53,30): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(81,2): error C2059: 구문 오류: 'return'
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(82,1): error C2059: 구문 오류: '}'
+C:\Users\com316\source\repos\15-cpp-final-hohyeonyu1-maker\Chp 13\main.cpp(82,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
